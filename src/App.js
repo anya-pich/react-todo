@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import routes from './config/routes';
+import './index.css';
 
 function App() {
   return (
